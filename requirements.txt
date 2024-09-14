@@ -1,0 +1,12 @@
+PyQt5
+ezdxf
+open3d
+ifcopenshell
+pyshp
+folium
+PyQtWebEngine
+geopandas
+shapely
+pandas
+openpyxl
+requests
